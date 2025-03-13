@@ -1,0 +1,8 @@
+Copiar backend a la otra máquina	Copia backend/ a C:\xampp\htdocs\proyecto\backend\
+Configurar base de datos en la otra máquina	Importa el SQL en phpMyAdmin (http://localhost/phpmyadmin/)
+Probar API en la otra máquina	Abre http://localhost/proyecto/backend/controllers/Locations.php
+Copiar frontend a la otra máquina	Copia frontend/ a C:\xampp\htdocs\proyecto\frontend\
+Instalar Node.js y Angular en la otra máquina	npm install -g @angular/cli
+Instalar dependencias del frontend	cd frontend → npm install
+Verificar URL del backend en Angular	Editar housing-location.service.ts
+Iniciar Angular	ng serve -o
